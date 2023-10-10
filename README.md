@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=uvELvxNAoQU
 
 2. Run the script:
     ```bash
-    python fpl_high_score_fetcher.py
+    python fpl_highest_gw_score.py
 
 3. Enter your FPL classic league ID when prompted:
 
