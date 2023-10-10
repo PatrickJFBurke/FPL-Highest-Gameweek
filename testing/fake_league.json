@@ -1,0 +1,117 @@
+{
+    "new_entries": {
+        "has_next": false,
+        "page": 1,
+        "results": []
+    },
+    "last_updated_data": "2023-09-18T21:49:39Z",
+    "league": {
+        "id": 1,
+        "name": "Fake League",
+        "created": "2023-07-06T09:42:28.593853Z",
+        "closed": false,
+        "max_entries": null,
+        "league_type": "x",
+        "scoring": "c",
+        "admin_entry": 4,
+        "start_event": 1,
+        "code_privacy": "p",
+        "has_cup": true,
+        "cup_league": null,
+        "rank": null
+    },
+    "standings": {
+        "has_next": false,
+        "page": 1,
+        "results": [
+            {
+                "id": 1,
+                "event_total": 51,
+                "player_name": "Anthony",
+                "rank": 1,
+                "last_rank": 1,
+                "rank_sort": 1,
+                "total": 340,
+                "entry": 1,
+                "entry_name": "Team A"
+            },
+            {
+                "id": 2,
+                "event_total": 58,
+                "player_name": "Bob",
+                "rank": 2,
+                "last_rank": 4,
+                "rank_sort": 2,
+                "total": 314,
+                "entry": 2,
+                "entry_name": "Team B"
+            },
+            {
+                "id": 3,
+                "event_total": 43,
+                "player_name": "Charlie",
+                "rank": 3,
+                "last_rank": 2,
+                "rank_sort": 3,
+                "total": 305,
+                "entry": 3,
+                "entry_name": "Team C"
+            },
+            {
+                "id": 4,
+                "event_total": 47,
+                "player_name": "David",
+                "rank": 4,
+                "last_rank": 3,
+                "rank_sort": 4,
+                "total": 304,
+                "entry": 4,
+                "entry_name": "Team D"
+            },
+            {
+                "id": 5,
+                "event_total": 47,
+                "player_name": "Edward",
+                "rank": 5,
+                "last_rank": 6,
+                "rank_sort": 5,
+                "total": 296,
+                "entry": 5,
+                "entry_name": "Team E"
+            },
+            {
+                "id": 6,
+                "event_total": 38,
+                "player_name": "Frank",
+                "rank": 6,
+                "last_rank": 5,
+                "rank_sort": 6,
+                "total": 289,
+                "entry": 6,
+                "entry_name": "Team F"
+            },
+            {
+                "id": 7,
+                "event_total": 40,
+                "player_name": "Gordon",
+                "rank": 7,
+                "last_rank": 7,
+                "rank_sort": 7,
+                "total": 283,
+                "entry": 7,
+                "entry_name": "Team G"
+            },
+            {
+                "id": 8,
+                "event_total": 43,
+                "player_name": "Harry",
+                "rank": 8,
+                "last_rank": 8,
+                "rank_sort": 8,
+                "total": 278,
+                "entry": 8,
+                "entry_name": "Team H"
+            }
+        ]
+    }
+}
