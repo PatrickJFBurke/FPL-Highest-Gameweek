@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python script that helps you fetch the highest gameweek scores for managers in a Fantasy Premier League (FPL) classic league. It utilizes the FPL API to retrieve and display the each managers highest scoring gameweek and which gameweek it was.
+This project is a Python script that helps you fetch the highest gameweek scores for managers in a Fantasy Premier League (FPL) classic league. It utilizes the FPL API to retrieve and display each managers highest scoring gameweek and which gameweek it was.
 
 Current functionality only allows for managers appearing on the front page of the standings to be included (50 managers), in future the ability to check multiple pages of standings will be added.
 
